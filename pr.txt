@@ -1,0 +1,6 @@
+Demo for PR
+1. created a local repo and initialised using git init
+2. created main branch and added text to file
+3. Saved and committed
+4. Created new github repo
+5. Linked local to remote using git remote add origin <url>
